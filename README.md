@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/3a0be532-c518-47c8-98bb-510a49c22ee3)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3a0be532-c518-47c8-98bb-510a49c22ee3" alt="image" />
+</div>
 
 # Deep_Seek_Local🐋🤖
 Sistema de chat simples desenvolvido com Langchain, Ollama e Streamlit, permitindo interação via chat com o usuário. Utiliza o modelo **deepseek-r1:1.5b**, que, mesmo sendo pequeno, demonstra resultados impressionantes.
