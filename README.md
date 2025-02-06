@@ -3,7 +3,7 @@
 </div>
 
 # Deep_Seek_Local🐋🤖
-Sistema de chat simples desenvolvido com Langchain, Ollama e Streamlit, permitindo interação via chat com o usuário. Utiliza o modelo **deepseek-r1:1.5b**, que, mesmo sendo pequeno, demonstra resultados impressionantes.
+Sistema de chat simples desenvolvido com Langchain, Ollama e Streamlit, permitindo interação via chat com o usuário. Utiliza o modelo **deepseek-r1:1.5b**, que, mesmo sendo pequeno, demonstra ótimos resultados.
 
 ## Visão Geral⚙️
 Este projeto é um chatbot local que utiliza tecnologias como Langchain, Ollama e Streamlit para criar uma conversação fluida e eficiente. Ideal para quem busca uma solução simples e funcional para interações via chat.
